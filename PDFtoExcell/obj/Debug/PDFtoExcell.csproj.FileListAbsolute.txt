@@ -1,0 +1,6 @@
+D:\Source Code\PDFtoExcell\PDFtoExcell\bin\Debug\PDFtoExcell.exe.config
+D:\Source Code\PDFtoExcell\PDFtoExcell\bin\Debug\PDFtoExcell.exe
+D:\Source Code\PDFtoExcell\PDFtoExcell\bin\Debug\PDFtoExcell.pdb
+D:\Source Code\PDFtoExcell\PDFtoExcell\obj\Debug\PDFtoExcell.csprojResolveAssemblyReference.cache
+D:\Source Code\PDFtoExcell\PDFtoExcell\obj\Debug\PDFtoExcell.exe
+D:\Source Code\PDFtoExcell\PDFtoExcell\obj\Debug\PDFtoExcell.pdb
